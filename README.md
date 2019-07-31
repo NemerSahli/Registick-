@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="100"
+  <img height="130"
     src="assets/images/header-logo.png">
+  <h3>coming soon...</h3>
 </div>
 
 
-### coming soon ...
 
 ## Description
 
